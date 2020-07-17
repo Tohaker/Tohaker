@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Miles!
+I'm an Electronic Engineering graduate, currently working as a Software Engineer.
+
+#### [Here's my Eye Tracking Robotics thesis](https://tohaker.github.io/GazeAwareRobotics/)
+
+### 📫 How to reach me:
+- [Twitter](https://www.twitter.com/tohaker)
+- [Email](mailto://milesbardon+github@gmail.com)
 
 <!--
 **Tohaker/Tohaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
