@@ -1,10 +1,16 @@
-### Hi there 👋 I'm Miles!
-I'm an Electronic Engineering graduate, currently working as a Software Engineer.
+# Hi there 👋 I'm Miles!
+I'm a Full-stack Software Engineer with a passion for cloud infrastructure and making niche integrations. I'm always happy to chat about any of my public projects!
+
+## What I'm working on
+
+- 🎭 [BioniQL](https://github.com/Tohaker/bioniQL) - LEGO Bionicle themed example GraphQL server
+- 🛜 [Omada Terraform Provider](https://github.com/Tohaker/terraform-provider-omada) - TP-Link Omada Terraform Provider
+- 🛠️ [AWS CDK Powertools Blueprint](https://github.com/Tohaker/cdk-aws-lambda-powertools-blueprint) - NPM-published CDK Blueprint for using Powertools with AWS Lambda
 
 #### [Here's my Eye Tracking Robotics thesis](https://tohaker.github.io/GazeAwareRobotics/)
 
 ### 📫 How to reach me:
-- [Twitter](https://www.twitter.com/tohaker)
+- [LinkedIn](https://www.linkedin.com/in/miles-bardon/)
 - [Email](mailto://milesbardon+github@gmail.com)
 
 <!--
